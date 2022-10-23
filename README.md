@@ -1,2 +1,2 @@
 # odoo-dev
-Start an odoo project
+Start an odoo project.
